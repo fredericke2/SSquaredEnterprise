@@ -1,0 +1,11 @@
+IF NOT EXISTS (
+    SELECT 1 FROM INFORMATION_SCHEMA.TABLES
+    WHERE TABLE_NAME = 'Role')
+BEGIN
+    CREATE TABLE Role
+    (
+        Id INT Identity NOT NULL,
+        RoleName VARCHAR(255) NOT NULL
+        CONSTRAINT PK_Role PRIMARY KEY (Id),
+    )
+END

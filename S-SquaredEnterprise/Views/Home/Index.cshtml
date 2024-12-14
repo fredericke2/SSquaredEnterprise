@@ -1,0 +1,37 @@
+﻿@section scripts
+{
+    <script src="~/js/employee.js"></script>
+}
+
+@model IndexModel
+<form action="/Home/Index" name="filterForm" method="get" id="filterForm">
+    <select class="form-select" aria-label="Manager" id="selectManager" asp-for="ManagerId">
+        <option selected value="0">Any</option>
+        @foreach (var item in Model.Managers)
+        {
+            <option value="@item.Id">@item.FirstName @item.LastName</option>
+        }
+    </select>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Employee ID</th>
+                <th scope="col">Last Name</th>
+                <th scope="col">First Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Employees)
+            {
+                <tr>
+                    <th scope="row">@item.EmployeeId</th>
+                    <td>@item.LastName</td>
+                    <td>@item.FirstName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div class="footer">
+        <button type="button" class="btn btn-primary" onclick="window.location.href='@Url.Action("AddEmployee", "Home" )';">Add Employee</button>
+    </div>
+</form>

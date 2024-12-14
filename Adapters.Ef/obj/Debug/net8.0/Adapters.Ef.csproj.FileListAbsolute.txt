@@ -1,0 +1,14 @@
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\Adapters.Ef\bin\Debug\net8.0\Adapters.Ef.deps.json
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\Adapters.Ef\bin\Debug\net8.0\Adapters.Ef.runtimeconfig.json
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\Adapters.Ef\bin\Debug\net8.0\Adapters.Ef.dll
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\Adapters.Ef\bin\Debug\net8.0\Adapters.Ef.pdb
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\Adapters.Ef\obj\Debug\net8.0\Adapters.Ef.csproj.AssemblyReference.cache
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\Adapters.Ef\obj\Debug\net8.0\Adapters.Ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\Adapters.Ef\obj\Debug\net8.0\Adapters.Ef.AssemblyInfoInputs.cache
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\Adapters.Ef\obj\Debug\net8.0\Adapters.Ef.AssemblyInfo.cs
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\Adapters.Ef\obj\Debug\net8.0\Adapters.Ef.csproj.CoreCompileInputs.cache
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\Adapters.Ef\obj\Debug\net8.0\Adapters.Ef.dll
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\Adapters.Ef\obj\Debug\net8.0\refint\Adapters.Ef.dll
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\Adapters.Ef\obj\Debug\net8.0\Adapters.Ef.pdb
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\Adapters.Ef\obj\Debug\net8.0\Adapters.Ef.genruntimeconfig.cache
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\Adapters.Ef\obj\Debug\net8.0\ref\Adapters.Ef.dll

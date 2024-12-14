@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=localhost;Initial Catalog=SSquaredEnterprise;TrustServerCertificate=True;User id=SSquaredAdmin;Password=SquaredAdmin123" Microsoft.EntityFrameworkCore.SqlServer -OutputDir EfModels

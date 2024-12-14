@@ -1,0 +1,11 @@
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\DBScripts\bin\Debug\net8.0\DBScripts.deps.json
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\DBScripts\bin\Debug\net8.0\DBScripts.dll
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\DBScripts\bin\Debug\net8.0\DBScripts.pdb
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\DBScripts\obj\Debug\net8.0\DBScripts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\DBScripts\obj\Debug\net8.0\DBScripts.AssemblyInfoInputs.cache
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\DBScripts\obj\Debug\net8.0\DBScripts.AssemblyInfo.cs
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\DBScripts\obj\Debug\net8.0\DBScripts.csproj.CoreCompileInputs.cache
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\DBScripts\obj\Debug\net8.0\DBScripts.dll
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\DBScripts\obj\Debug\net8.0\refint\DBScripts.dll
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\DBScripts\obj\Debug\net8.0\DBScripts.pdb
+C:\Users\FrederickEscobar\source\repos\S-SquaredEnterprise\DBScripts\obj\Debug\net8.0\ref\DBScripts.dll
